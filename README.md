@@ -1,11 +1,11 @@
-# PHP API Service Starter
+# Wordpress IDX template
 
-This is a PHP API service starter based on [Google Cloud Run Quickstart](https://cloud.google.com/run/docs/quickstarts/build-and-deploy/deploy-php-service).
+This template is used to install wordpress remotely
 
 ## Getting Started
 
-To test the service locally, run:
+To restart development server, run:
 
 ```sh
-php -S localhost:3000 index.php
+php -S localhost:9001
 ```
